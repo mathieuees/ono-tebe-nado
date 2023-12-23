@@ -59,7 +59,7 @@
 
 /* Cover */
 .cover {
-    margin: 0 9px 160px;
+    margin: 0 9px 190px;
     background: url('../images/cover.jpg');
     height: 744px;
     position: relative;
@@ -108,7 +108,7 @@
 }
 
 .aligned-text_right {
-    margin: 0 49px 120px;
+    margin: 0 49px 160px;
     line-height: 100%;
     text-align: right;
 }
