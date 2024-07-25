@@ -49,7 +49,7 @@
     height: 105px;
 }
 
-.header__address {
+.address {
     all: unset;
     max-width: 236px;
     color: #000;
@@ -60,7 +60,7 @@
     margin: 5px 0 2px;
 }
 
-.header__address-contact {
+.address-contact {
     text-decoration: none;
     border-bottom: 1px solid;
     letter-spacing: 0.01em;
@@ -293,7 +293,7 @@
 
 /* Footer */
 .footer {
-    margin: 181px 58px 89px;
+    margin: 181px 50px 89px;
     display: flex;
 }
 
