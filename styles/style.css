@@ -295,6 +295,7 @@
 .footer {
     margin: 181px 50px 89px;
     display: flex;
+    justify-content: space-between;
 }
 
 .footer__menu {
